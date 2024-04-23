@@ -22,6 +22,7 @@ I'm a Full Stack Developer with strong foundation in tools like HTML, CSS, JavaS
 ## Projects
 - [NxT Trendz](https://samsnxttrendz.ccbp.tech):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
 - [Simple Todos](https://samssimpletodos.ccbp.tech):  A Simple todo website for maintaining daily tasks.
+- [Letters Calc](https://samsletterscalc.ccbp.tech): A Calculator for counting the input letters.
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/michaelsam25)
