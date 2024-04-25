@@ -21,7 +21,7 @@ I'm a Full Stack Developer with strong foundation in tools like HTML, CSS, JavaS
 
 ## Projects
 - [NxT Trendz](https://samsnxttrendz.ccbp.tech):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
-- [Spotify-Remix](https://samsspotify.ccbp.tech):  A web application designed to revolutionize the way users discover and stream music. Username: **rahul**,  Password: **rahul@2021**
+- [Spotify-Remix](https://samsspotify.ccbp.tech):  A web application designed to discover and stream music using ReactJS. Username: **rahul**,  Password: **rahul@2021**
 - [Simple Todos](https://samssimpletodos.ccbp.tech):  A Simple todo website for maintaining daily tasks.
 - [Letters Calc](https://samsletterscalc.ccbp.tech): A Calculator for counting the input letters.
 - [Coin Toss Game](https://samscointosgame.ccbp.tech): Playing Coin toss game.
