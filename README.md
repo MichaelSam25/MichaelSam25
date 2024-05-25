@@ -20,7 +20,7 @@ I'm a Full Stack Developer with strong foundation in tools like HTML, CSS, JavaS
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## Projects
-- [NxT Trendz](https://samsnxttrendz.ccbp.tech):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
+- [NxT Trendz](https://samsnxttrend.ccbp.tech):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
 - [Spotify-Remix](https://samsspotify.ccbp.tech):  A web application designed to discover and stream music using ReactJS. Username: **rahul**,  Password: **rahul@2021**
 - [Simple Todos](https://samssimpletodos.ccbp.tech):  A Simple todo website for maintaining daily tasks.
 - [Letters Calc](https://samsletterscalc.ccbp.tech): A Calculator for counting the input letters.
