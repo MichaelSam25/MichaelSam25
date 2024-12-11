@@ -2,7 +2,7 @@
 I'm a Full Stack Developer with strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma. I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 ## About Me
-- 💼 MERN Full Stack Developer
+- 💼 Full Stack Developer
 - 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
 - ✨ Completed Full Stack Development Course at NxT Wave
 - 🎓 Completed Bachelor of Engineering 
